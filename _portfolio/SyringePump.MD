@@ -35,34 +35,9 @@ Explore the interactive Fusion 360 model of the Syringe Pump assembly below:
 5. **Automatic Stop**: Once the syringe is empty, the limit switch will stop the motor, and the LED will turn red, signaling the completion of the process.
 6. **Turn Off**: After dispensing, press the on button again to turn off the pump, unplug it, and remove the syringe.
 
-# Off-the-Shelf Parts
-
-
-Memory updated
-Here's the updated project page with the additional off-the-shelf parts included:
-
-markdown
-Copy code
----
-title: "Syringe Pump"
-excerpt: "A precise, adaptable, and programmable syringe pump designed for medical and laboratory use."
-header:
-  image: /assets/img/syringe-pump-cad.png
-  teaser: /assets/img/syringe-pump.jpg
-gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
-   
----
-
 # Purpose and Features
 
 The Syringe Pump is a cost-effective, accurate, and programmable device designed for precise fluid dispensing in medical and laboratory settings. It offers adaptability to various syringe sizes without the need for tools, making it easy to switch between different applications. The design features an intuitive interface with an on/off button and LED status indicators for user-friendly operation. Built on a durable aluminum rail with a protective enclosure for the electronics, the pump is designed to withstand rigorous use while ensuring safety and reliability.
-
-# Real-Life Image
-
-![Syringe Pump Assembly](assets/img/syringe-pump.jpg)
 
 # Off-the-Shelf Parts
 
