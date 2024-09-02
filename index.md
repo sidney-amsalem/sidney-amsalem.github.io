@@ -18,7 +18,7 @@ feature_row:
     alt: "Modified Seiko Watch"
     title: "Customized Seiko Watch"
     excerpt: "Modified with premium parts for my business, Watch Cobblers LLC"
-  - image_path: assets/img/syringe-pump.png
+  - image_path: assets/img/syringe-pump-cad.png
     title: "Syringe Pump"
     excerpt: "An accurate, cost-effective, programmable pump that could effectively be introduced into a medical situation"
 ---
