@@ -37,13 +37,57 @@ Explore the interactive Fusion 360 model of the Syringe Pump assembly below:
 
 # Off-the-Shelf Parts
 
-| Part Name               | Description                            | Quantity |
-|-------------------------|----------------------------------------|----------|
-| NEMA 17 Stepper Motor   | Motor for driving the lead screw       | 1        |
-| 2040 Aluminum Extrusion | 1-foot long extrusion for the base     | 1        |
-| Lead Screw (8mm Pitch)  | 250mm lead screw for carriage motion   | 1        |
-| Linear Rod (8mm)        | 8mm diameter rod for carriage stability| 1        |
-| Power Supply (12V, 24V) | Powering the motor and Arduino         | 1        |
+
+Memory updated
+Here's the updated project page with the additional off-the-shelf parts included:
+
+markdown
+Copy code
+---
+title: "Syringe Pump"
+excerpt: "A precise, adaptable, and programmable syringe pump designed for medical and laboratory use."
+header:
+  image: /assets/img/syringe-pump-cad.png
+  teaser: /assets/img/syringe-pump.jpg
+gallery:
+  - image_path: assets/img/Slide-3.png
+  - image_path: assets/img/Slide-2.png
+  - image_path: assets/img/Slide-4.png
+   
+---
+
+# Purpose and Features
+
+The Syringe Pump is a cost-effective, accurate, and programmable device designed for precise fluid dispensing in medical and laboratory settings. It offers adaptability to various syringe sizes without the need for tools, making it easy to switch between different applications. The design features an intuitive interface with an on/off button and LED status indicators for user-friendly operation. Built on a durable aluminum rail with a protective enclosure for the electronics, the pump is designed to withstand rigorous use while ensuring safety and reliability.
+
+# Real-Life Image
+
+![Syringe Pump Assembly](assets/img/syringe-pump.jpg)
+
+# Off-the-Shelf Parts
+
+| Part Name                | Description                                            | Quantity |
+|--------------------------|--------------------------------------------------------|----------|
+| Arduino                  | Microcontroller for controlling the motor and sensors  | 1        |
+| Power Supply             | Powers the motor and Arduino                           | 1        |
+| Breadboard               | For the electrical circuit                             | 1        |
+| On/Off Switch            | Controls the power to the motor                        | 1        |
+| M3 Screw                 | Fasteners for various components                       | 14       |
+| Aluminum Rail (V-Slot)   | 1-foot long extrusion for the base                     | 1        |
+| M5x8mm Bolt              | Secures components to the aluminum rail                | 6        |
+| M5 Tree Nut              | Inserts into the aluminum rail for mounting components | 10       |
+| NEMA 17 Stepper Motor    | Motor for driving the lead screw                       | 1        |
+| M3x10mm Bolt             | Secures the stepper motor                              | 4        |
+| M3x8 Thread Forming Screw| Secures the electronics enclosure                      | 4        |
+| Linear Bearing           | Guides the carriage along the linear rod               | 1        |
+| Nut TR8x8-4              | Nut for the lead screw                                 | 1        |
+| Linear Rod Lock Collar   | Holds the linear rod in place                          | 2        |
+| Linear Rod 8mmx200mm     | Provides stability for the carriage                    | 1        |
+| Lead Screw TR8x8x250mm   | Drives the carriage for syringe dispensing             | 1        |
+| Flexible Coupler         | Connects the motor to the lead screw                   | 1        |
+| Flanged Ball Bearing     | Provides smooth rotation for the lead screw            | 2        |
+
+
 
 # 3D Printed Parts
 
