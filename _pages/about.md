@@ -57,6 +57,10 @@ I launched **Watch Cobblers LLC** in July 2023, a watch customization service wh
 - **Digital Fabrication Tools**: Fusion 360 CAD
 - **Misc**: Product photography, digital marketing, business management
 
+### Awards/Publications
+
+n/a
+
 ### Interests
 
 When I’m not working or studying, you can find me tinkering with cars, playing fingerstyle guitar, or making an espresso. I’m also a casual marathon runner and enjoy experimenting with new recipes in the kitchen.
