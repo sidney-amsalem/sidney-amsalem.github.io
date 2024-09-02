@@ -30,13 +30,19 @@ The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https:
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/> -->
 
-# About Me
+My name is **Sidney Amsalem**, and I am currently pursuing a Bachelor of Science in Computer Science at Vanderbilt University, with a minor in Digital Fabrication. I am seeking a job that involves combining technology and business principles.
 
-My name is **Sidney Amsalem**, and I am currently pursuing a Bachelor of Science in Computer Science at Vanderbilt University, with a minor in Digital Fabrication. I am passionate about technology and business.
+## Education
+
+* Bergen County Technical High School
+  * Major in Automotive Engineering
+* Vanderbilt University (August 2021 - Expected May 2025)
+  * BS in Computer Science
+  * Minor in Digital Fabrication
 
 ### My Business
 
-I launched **Watch Cobblers LLC** in July 2023, a watch customization service where I've sold 365 hand-customized watches within just 9 months, generating $90,000 in revenue. My experience has been hands-on from the start—I designed a user-friendly e-commerce site, managed successful digital marketing campaigns, and produced all promotional content. Through this venture, I’ve honed my skills in business management, digital marketing, and product photography. Feel free to visit my website [watchcobblers.com](https://watchcobblers.com).
+I launched **Watch Cobblers LLC** in July 2023, a watch customization service where I've sold 365 hand-customized watches within just 9 months, generating $90,000 in revenue. My experience has been hands-on from the start—I designed a user-friendly e-commerce site, managed successful digital marketing campaigns, and produced all promotional content. Through this venture, I’ve learned skills in business management, digital marketing, and product photography. Feel free to visit my website [watchcobblers.com](https://watchcobblers.com).
 
 ### Technical Projects
 
@@ -47,8 +53,9 @@ I launched **Watch Cobblers LLC** in July 2023, a watch customization service wh
 ### Skills
 
 - **Programming Languages**: C++, Python
-- **Tools**: Fusion 360 CAD, Adobe Photoshop, Davinci Resolve
-- **Specialties**: Product photography, digital marketing, business management
+- **Tools**: Adobe Photoshop, Davinci Resolve
+- **Digital Fabrication Tools**: Fusion 360 CAD
+- **Misc**: Product photography, digital marketing, business management
 
 ### Interests
 
