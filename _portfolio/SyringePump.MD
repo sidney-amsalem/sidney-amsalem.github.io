@@ -56,5 +56,8 @@ Explore the interactive Fusion 360 model of the Syringe Pump assembly below:
 | Enclosure               | Protects electronics from exposure                    | 1        |
 | Enclosure Lid           | Seals the enclosure, protecting internal components   | 1        |
 
+# Arduino Code
+
+The Arduino code for controlling the syringe pump is available on [GitHub](https://github.com/sidney-amsalem/syringe-pump-arduino-code). This code manages the motor speed based on the syringe diameter and flow rate, controls the LED status indicators, and ensures safe operation with the limit switch.
 
 <!-- {% include gallery caption="write caption here" %} -->
