@@ -1,5 +1,5 @@
 ---
-title: "My name is Sidney Amsalem"
+title: "My name is Sidney Amsalem (portfolio redesign)"
 layout: splash
 header:
   overlay_color: "#000"
