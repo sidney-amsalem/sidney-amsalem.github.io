@@ -19,7 +19,7 @@ These devices can be fabricated using  3D resin printing, which allows for creat
 
 Mixing in microfluidic devices presents challenges due to **laminar flow** at micro scales. In laminar flow, fluids move in parallel layers with minimal lateral mixing. To overcome the limitations of laminar flow, microfluidic devices employ specific channel geometries that generate **chaotic advection**—where individual fluid particles deviate from the straight laminar flow lines due to underlying microscale disturbances or structures in the flow.
 
----
+
 
 ## *Rationale Behind the Design*
 
@@ -44,7 +44,7 @@ The **inclined mixer channel** further enhances mixing by creating complex flow 
 Explore the interactive Fusion 360 model of the Syringe Pump assembly below:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4d84411c215a0cf13?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
----
+
 
 ### **Results**
 
@@ -80,7 +80,6 @@ To fabricate the microfluidic device, follow these steps:
    - Once the PDMS has cured, carefully peel it off the mold. Use **oxygen plasma bonding** to bond the PDMS to a glass slide. Plasma treatment activates the surfaces of both the PDMS and the glass, creating a strong, irreversible bond.
    - Ensure the microfluidic channels are clear by gently blowing compressed air through them.
 
----
 
 By following these steps, the 3D-printed mold can be used to create a functional microfluidic device designed for homogeneous mixing. Such devices are applicable in areas like biomedical diagnostics, chemical synthesis, and drug delivery. The design choices—ranging from channel dimensions to the inclusion of zig-zag, split-and-recombine, and inclined mixer geometries—were made to optimize mixing performance while maintaining ease of fabrication.
 
