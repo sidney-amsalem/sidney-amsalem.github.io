@@ -30,7 +30,7 @@ The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https:
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/> -->
 
-My name is **Sidney Amsalem**, and I am currently pursuing a Bachelor of Science in Computer Science at Vanderbilt University, with a minor in Digital Fabrication. I am seeking a job that involves combining technology and business principles. test
+My name is **Sidney Amsalem**, and I am currently pursuing a Bachelor of Science in Computer Science at Vanderbilt University, with a minor in Digital Fabrication. I am seeking a job that involves combining technology and business principles.
 
 ## Education
 
