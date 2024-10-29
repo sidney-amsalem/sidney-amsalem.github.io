@@ -4,10 +4,6 @@ excerpt: "Cost-effective, 3D-printed device for efficient small-scale fluid mixi
 header:
   image: /assets/img/ufluidic-setup.jpg
   teaser: /assets/img/ufluidic-working.jpg
-gallery:
-  - image_path: assets/img/ufluidic-casted.jpg
-  - image_path: assets/img/ufluidic-mold.jpg
-
    
 ---
 
@@ -64,6 +60,8 @@ To fabricate the microfluidic device, follow these steps:
      - Let the mold dry upside down for 30 minutes to ensure complete removal of IPA, avoiding pooling in the channels.
      - Perform a 10-second surface cure in the FormCure. This shorter curing time prevents warping of the mold.
 
+    <img src='/assets/img/ufluidic-mold.jpg'/>
+
 2. **Parylene Coating**:
 
    - Apply a parylene coating to the mold. This step is critical to prevent PDMS curing inhibition, which can be caused by photoinitiators leaching from the resin. Additionally, the parylene layer improves the biocompatibility of the mold, which is crucial for applications involving live cells.
@@ -75,6 +73,8 @@ To fabricate the microfluidic device, follow these steps:
      - 23°C for 24 hours.
      - 65°C for 4 hours.
     - Once the PDMS has cured, carefully peel it off the mold. Bond the PDMS to a glass slide.
+
+    <img src='/assets/img/ufluidic-casted.jpg'/>
 
 By following these steps, the 3D-printed mold can be used to create a functional microfluidic device designed for homogeneous mixing. Such devices are applicable in areas like biomedical diagnostics, chemical synthesis, and drug delivery. The design choices—ranging from channel dimensions to the inclusion of zig-zag, split-and-recombine, and inclined mixer geometries—were made to optimize mixing performance while maintaining ease of fabrication.
 
