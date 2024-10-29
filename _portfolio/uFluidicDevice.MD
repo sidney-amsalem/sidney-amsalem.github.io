@@ -39,6 +39,11 @@ After the zig-zag section, the fluid passes through a **split and recombine chan
 
 The **inclined mixer channel** further enhances mixing by creating complex flow paths. This channel includes a twisted geometry that forces the fluid to rotate and stretch, maximizing interaction between fluid layers. The design features a limiting hole of **0.09 mm²**, which helps control the flow rate and promotes chaotic mixing by adding restrictions that induce additional fluid deformation.
 
+# CAD Model
+
+Explore the interactive Fusion 360 model of the Syringe Pump assembly below:
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4d84411c215a0cf13?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ---
 
 ### **Results**
