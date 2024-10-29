@@ -72,9 +72,6 @@ To fabricate the microfluidic device, follow these steps:
    - Pour the PDMS over the mold and let it cure. Temperatures above 100°C will crack the clear resin, therefore the curing can be done at one of the following:
      - 23°C for 24 hours.
      - 65°C for 4 hours.
-    - Once the PDMS has cured, carefully peel it off the mold. Bond the PDMS to a glass slide.
+    - Once the PDMS has cured, carefully peel it off the mold. Plasma bond the PDMS to a glass slide using a PlasmaFlo PDC-FMG plasma cleaner (Harrick Plasma).
 
     <img src='/assets/img/ufluidic-casted.jpg' style="width:300px;height:300px;"/>
-
-By following these steps, the 3D-printed mold can be used to create a functional microfluidic device designed for homogeneous mixing. Such devices are applicable in areas like biomedical diagnostics, chemical synthesis, and drug delivery. The design choices—ranging from channel dimensions to the inclusion of zig-zag, split-and-recombine, and inclined mixer geometries—were made to optimize mixing performance while maintaining ease of fabrication.
-
