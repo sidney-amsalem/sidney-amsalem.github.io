@@ -6,7 +6,7 @@ header:
   teaser: /assets/img/ufluidic-working.png
 gallery:
   - image_path: assets/img/ufluidic-casted.jpg
-    - image_path: assets/img/ufluidic-mold.jpg
+  - image_path: assets/img/ufluidic-mold.jpg
 
    
 ---
