@@ -48,6 +48,9 @@ We connected the microfluidic device to two syringe pumps, each with a 20 ml syr
 
 Encouraged by these results, we increased the flow rate to the maximum output of the syringe pumps, approximately 3.11 ml/min per syringe. Despite the 76% increase in flow rate, which reduced the contribution of passive diffusion due to the higher fluid velocity, the device still achieved completely effective mixing, even before reaching the split and twisted channels. This demonstrates the importance of the small channel size in promoting efficient mixing across a wide range of flow rates.
 
+Watch the video below to see the device effectively mixing (fluid runs out at 0:11).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eVQREgVOm_Y?si=RRE4qpvDUXt8Cjbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### **From 3D Printed Mold to Final Device**
 
 To fabricate the microfluidic device, follow these steps:
