@@ -49,7 +49,7 @@ Our autonomous vehicle speed controller is designed to reduce traffic waves, imp
 
 ## Controller Design
 
-![Controller Design](speed-controller.png)
+<img src="/assets/img/speed-controller.png" style="width: 300px"/>
 
 Our controller uses three 3-way switches for user customization:
 1. Lead distance calculation
