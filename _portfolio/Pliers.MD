@@ -2,8 +2,8 @@
 title: "Multi-Material Pliers"
 excerpt: "Multi-material pliers with flexible TPU spring"
 header:
-  image: /assets/img/plier-CAD.JPG
-  teaser: /assets/img/plier-CAD.JPG
+  image: /assets/img/plier-CAD.png
+  teaser: /assets/img/plier-CAD.png
    
 ---
 
