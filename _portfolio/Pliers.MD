@@ -2,8 +2,8 @@
 title: "Multi-Material Pliers"
 excerpt: "Multi-material pliers with flexible TPU spring"
 header:
-  image: /assets/img/pliers.JPG
-  teaser: /assets/img/pliers.JPG
+  image: /assets/img/plier-CAD.JPG
+  teaser: /assets/img/plier-CAD.JPG
    
 ---
 
@@ -12,8 +12,8 @@ header:
 In this project, I designed and printed multi-material print-in-place needle nose pliers. Print-in-place models work right after removal from the print bed, eliminating the need for post-processing or assembly.
 
 <span>
-    <img src="/assets/img/plier-1.png" style="width: 250px">
-    <img src="/assets/img/plier-2.png" style="width: 250px">
+    <img src="/assets/img/plier-1.png" width="250"/>
+    <img src="/assets/img/plier-2.png" width="250"/>
 </span>
 
 #### Print-in-Place Parts
@@ -21,7 +21,7 @@ Print-in-place parts are designed with movable or flexible components that funct
 
 #### Design Process and Material Selection
 
-<img src="/assets/img/plier-CAD.png" style="width: 400px">
+<img src="/assets/img/plier-CAD.png" style="width: 400px"/>
 
 **Material Choices and Assembly**: PLA was chosen for the plier body (handle and jaw). This is strong enough for the application, easy to print, and most importantly, rigid.  95A TPU was chosen for the center spring component because its flexibility allows for the plier’s spring-back effect. While the project can be printed on a multi-material printer, allowing for the pliers to be ready right after printing, two printers were used (one with PLA and the other with TPU). The parts were press fit together. This approach allowed me to test different variations of the spring and plier body independently of each other. The single extrusion printers were also faster (dual-extrusion printers are generally significantly slower) and more available (only 1 dual-extrusion printer was available in the lab).
 

@@ -3,7 +3,7 @@ title: "Micro-Fluidic Device"
 excerpt: "Cost-effective, 3D-printed device for efficient small-scale fluid mixing."
 header:
   image: /assets/img/ufluidic-setup.jpg
-  teaser: /assets/img/ufluidic-working.jpg
+  teaser: /assets/img/ufluidic-working-thumbnail.jpg
    
 ---
 
