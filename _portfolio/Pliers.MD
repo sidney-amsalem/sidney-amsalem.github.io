@@ -7,13 +7,11 @@ header:
    
 ---
 
+<img src="/assets/img/pliers-working.GIF" style="width: 400px">
+
 ### Multi-Material Print-in-Place Needle Nose Pliers
 
 In this project, I designed and printed multi-material print-in-place needle nose pliers. Print-in-place models work right after removal from the print bed, eliminating the need for post-processing or assembly.
-<span>
-    <img src="/assets/img/plier-1.jpg" width="250"/>
-    <img src="/assets/img/plier-2.jpg" width="250"/>
-</span>
 
 #### Print-in-Place Parts
 Print-in-place parts are designed with movable or flexible components that function immediately after printing. A popular feature in these designs is the use of joints, commonly seen in models with chains and hinges. These designs use small clearances (called negative space) to allow movement without separate assembly. Using flexible and rigid materials is popular with print-in-place parts. Rigid materials like PLA provide structure, while flexible materials like TPU enable elasticity and can be used as a spring or joint, allowing for natural movement. The automotive and aerospace industries use print-in-place parts to create lightweight components with integrated hinges or flexible joints, reducing the need for assembly and minimizing production times.
@@ -42,6 +40,13 @@ Print-in-place parts are designed with movable or flexible components that funct
 | Handle Length     | 72mm        |
 | Thickness         | 5.5mm       |
 
-<img src="/assets/img/pliers-working.GIF" style="width: 400px">
+#### Gallery
+
+<span>
+    <img src="/assets/img/plier-1.jpg" width="250"/>
+    <img src="/assets/img/plier-2.jpg" width="250"/>
+</span>
+
+
 
 
