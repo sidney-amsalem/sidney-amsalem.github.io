@@ -2,8 +2,8 @@
 title: "Bike Phone Mount"
 excerpt: "Built using a Top-Down Modeling Approach"
 header:
-  image: 
-  teaser: 
+  image: # TODO
+  teaser: # TODO
 gallery: 
   # - image_path: assets/img/
   # - image_path: assets/img/
@@ -39,19 +39,20 @@ Top-down modeling is a design approach where components are created in relation 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a45becb84638a70c26?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 <span>
-  <img src="assets/img/mount-1" width="200"/>
-  <img src="assets/img/mount-2" width="200"/>
-  <img src="assets/img/mount-3" width="200"/>
+  <img src="assets/img/mount-1.png" width="200"/>
+  <img src="assets/img/mount-2.png" width="200"/>
+  <img src="assets/img/mount-3.png" width="200"/>
 </span>
 
 <span>
-  <img src="assets/img/mount-4" width="200"/>
-  <img src="assets/img/mount-5" width="200"/>
-  <img src="assets/img/mount-6" width="200"/>
+  <img src="assets/img/mount-4.png" width="200"/>
+  <img src="assets/img/mount-5.png" width="200"/>
+  <img src="assets/img/mount-6.png" width="200"/>
 </span>
 
 #### In-use
 
+<!-- TODO Add gif and photos of mount in use -->
 
 
 
