@@ -5,12 +5,12 @@ header:
   image: # assets/img/mount-1.png
   teaser: assets/img/mount-1.png
 gallery: 
-  - image_path: assets/img/mount-1.png
-  - image_path: assets/img/mount-2.png
-  - image_path: assets/img/mount-3.png
-  - image_path: assets/img/mount-4.png
-  - image_path: assets/img/mount-5.png
-  - image_path: assets/img/mount-6.png
+  - image_path: /assets/img/mount-1.png
+  - image_path: /assets/img/mount-2.png
+  - image_path: /assets/img/mount-3.png
+  - image_path: /assets/img/mount-4.png
+  - image_path: /assets/img/mount-5.png
+  - image_path: /assets/img/mount-6.png
    
 ---
 
@@ -43,7 +43,7 @@ Top-down modeling is a design approach where components are created in relation 
 
 #### In-use
 
-<img src="assets/img/mount.gif"/>
+<img src="/assets/img/mount.gif" width="250"/>
 
 
 
