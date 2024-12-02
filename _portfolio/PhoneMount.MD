@@ -2,8 +2,8 @@
 title: "Bike Phone Mount"
 excerpt: "Built using a Top-Down Modeling Approach"
 header:
-  image: # assets/img/mount-1.png
-  teaser: assets/img/mount-1.png
+  image: /assets/img/mount-7.png
+  teaser: /assets/img/mount-1.png
 gallery: 
   - image_path: /assets/img/mount-1.png
   - image_path: /assets/img/mount-2.png
