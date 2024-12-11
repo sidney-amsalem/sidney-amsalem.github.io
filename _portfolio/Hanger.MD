@@ -68,11 +68,9 @@ The aluminum design is significantly stronger with a maximum von Mises stress of
 
 Generative design is great in creating optimal geometries that are often lighter and stronger than traditional designs. However, its applications are limited by the following challenges:
 
-### Manufacturing Complexity and Costs:
-The intricate geometries often produced by generative design most likely require advanced additive manufacturing methods, such as powder bed fusion. These methods are expensive and time-intensive, limiting their use for consumer-grade products and applications.
+- **Manufacturing Complexity and Costs:** The intricate geometries often produced by generative design most likely require advanced additive manufacturing methods, such as powder bed fusion. These methods are expensive and time-intensive, limiting their use for consumer-grade products and applications.
 
-### Research and Development Costs:
-The design efforts required to implement generative design can be substantial. Spending the time and effort on generative design may not be worth it for applications that don’t necessarily require the most optimal geometry.
+- **Research and Development Costs:** The design efforts required to implement generative design can be substantial. Spending the time and effort on generative design may not be worth it for applications that don’t necessarily require the most optimal geometry.
 
 In my opinion, generative design is best in low-volume and technically demanding applications. Producing large volumes of generative designed parts is impractical due to manufacturing constraints and costs.
 
